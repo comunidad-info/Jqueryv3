@@ -1,0 +1,17 @@
+commit 1ba39a06a8dba805a6fbecc2815813e472fae8fd
+Author: Jesus <jesus.lv.fernandez@gmail.com>
+Date:   Tue Dec 6 15:19:09 2016 -0500
+
+    Agragamos un nuevo parrrafo y cambiamos estilos
+
+commit e6aa09e015592941c7d0527da350158730c81604
+Author: Jesus <jesus.lv.fernandez@gmail.com>
+Date:   Tue Dec 6 15:12:15 2016 -0500
+
+    Agregamos un nuevo parrafo
+
+commit 3106984988f1f6d6df423b567d516863d7b8ffe1
+Author: Jesus <jesus.lv.fernandez@gmail.com>
+Date:   Tue Dec 6 15:09:55 2016 -0500
+
+    Iniciamos
