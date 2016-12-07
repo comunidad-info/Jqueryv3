@@ -70,6 +70,9 @@
 .boton:hover{
 	transform: scale(1.2);
 }
+.text-center{
+	font-size: 50px;
+}
 
 p{
 	color: gray;
